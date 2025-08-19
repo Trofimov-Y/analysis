@@ -27,3 +27,6 @@ pubspec.lock
 .project
 .settings/
 .vscode/*
+
+# FVM Version Cache
+.fvm/
