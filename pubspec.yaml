@@ -1,0 +1,7 @@
+name: analysis
+
+version: 1.0.0
+topics: [lints, analyzer, analysis]
+
+environment:
+  sdk: ^3.8.0
