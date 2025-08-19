@@ -603,7 +603,6 @@ dart_code_metrics:
     # Comments
     - format-comment:                     # Comment formatting
         only-doc-comments: false          # Not only doc comments
-    - prefer-commenting-pubspec-ignores   # Comment pubspec ignores
 
     # ====================================
     # ADDITIONAL DART RULES
@@ -734,7 +733,6 @@ dart_code_metrics:
     - avoid-explicit-pattern-field-name # Explicit field names in patterns
     - avoid-redundant-else             # Redundant else
     - avoid-redundant-positional-field-name # Redundant positional field names
-    - avoid-redundant-pragma-inline    # Redundant pragma inline
     
     # Other quality rules
     - avoid-dynamic                     # Avoid dynamic
